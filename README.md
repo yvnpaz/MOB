@@ -21,7 +21,7 @@ _I need:_
 	Object oriented programming
 	User interface for entering the maximum value
 
-### Installation JavaFx
+### Installation JavaFx 🔧
 
 Description as install JavaFx in Eclipse.
 
@@ -29,6 +29,6 @@ Description as install JavaFx in Eclipse.
 
 Click in "General Purpose" and check it if e(fx)clipse is checked. Click en Next and Accept the terms and click Finish.
 
-### Usage
+### Usage ⚙️
 
 + *New Project...* -> JavaFx -> Complete the forms and Finish.
