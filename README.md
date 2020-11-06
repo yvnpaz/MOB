@@ -21,7 +21,7 @@ _I need:_
 	Object oriented programming
 	User interface for entering the maximum value
 
-### Instalation JavaFx
+### Installation JavaFx
 
 Description as install JavaFx in Eclipse.
 
