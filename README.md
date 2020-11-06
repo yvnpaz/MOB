@@ -25,7 +25,7 @@ _I need:_
 
 Description as install JavaFx in Eclipse.
 
- - Menu => Help -> Install New Software... In the field "type filter text", write e(fx)clipse and in the "Work with:" put * [site repository url](http://download.eclipse.org/releases/neon). This is will search the paquets/libraries that correspond with it.
+ - Menu => Help -> *Install New Software...* In the field "type filter text", write e(fx)clipse and in the "Work with:" put [site repository url](http://download.eclipse.org/releases/neon). This is will search the paquets/libraries that correspond with it.
 
 Click in "General Purpose" and check it if e(fx)clipse is checked. Click en Next and Accept the terms and click Finish.
 
