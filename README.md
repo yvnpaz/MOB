@@ -31,4 +31,4 @@ Click in "General Purpose" and check it if e(fx)clipse is checked. Click en Next
 
 ### Usage
 
-+ New Project... -> JavaFx -> Complete the forms and Finish.
++ *New Project...* -> JavaFx -> Complete the forms and Finish.
